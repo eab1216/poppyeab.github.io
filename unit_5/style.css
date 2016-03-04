@@ -1,19 +1,20 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color: rgb(114,0,0);
-	font-color:white;
+	color:white;
+	font-size:16px;
 }
 header{
-	font-family: shortstack, sans-serif; 
-	font-size: 18 pt;
+	font-family: shortstack, sans-serif;
 	font-weight: normal;
-	}
- h1{
- 	font-size: 28pt;
+}
+h1{
+ 	font-size: 2em;
  	font-family: century,serif;
  	text-align: center;
- }
+ 	margin:.5em;
+}
 p{
-	font-size:20pt;
-    text-align: center;
-    font-family:shortstack,sans-serif;
+	text-align: center;
+	font-family:shortstack,sans-serif;
 }
