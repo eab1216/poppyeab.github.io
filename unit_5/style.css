@@ -1,0 +1,19 @@
+body{
+	background-color: rgb(114,0,0);
+	font-color:white;
+}
+header{
+	font-family: shortstack, sans-serif; 
+	font-size: 18 pt;
+	font-weight: normal;
+	}
+ h1{
+ 	font-size: 28pt;
+ 	font-family: century,serif;
+ 	text-align: center;
+ }
+p{
+	font-size:20pt;
+    text-align: center;
+    font-family:shortstack,sans-serif;
+}
