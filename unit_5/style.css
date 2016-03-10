@@ -6,6 +6,9 @@ nav{
 a:hover{
 	background-color:#aaaaaa;
 }
+#hero{
+	background-image:poppystore_counter.jpg;
+}
 body{
 	background-color:#5C5858;
 	color:white;
