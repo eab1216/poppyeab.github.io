@@ -1,13 +1,13 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 nav{
-	background-color:white;
+	background-color:E5E4E2;
 	font-family: arial,sans-serif;
 }
 a:hover{
 	background-color:#aaaaaa;
 }
 body{
-	background-color: rgb(114,0,0);
+	background-color:#5C5858;
 	color:white;
 	font-size:16px;
 }
@@ -26,18 +26,18 @@ p{
 	font-family:Arial,sans-serif;
 }
 #two_column {
-	background-color: white;
+	background-color:#E5E4E2;
 	padding: 20px;
     font-family:Arial,sans-serif 
 }
 #left{
-	background-color: white;
+	background-color:#E5E4E2;
 	padding:20px;
 	float:left;
 	width:45%;
 }
 #right{
-	background-color: white;
+	background-color:#E5E4E2;
 	padding:20px;
 	float:right;
 	width: 45%;
