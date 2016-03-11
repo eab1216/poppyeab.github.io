@@ -1,6 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 nav{
 	background-color:#E5E4E2;
+	color:white;
 	font-family: arial,sans-serif;
 	float: left;
 	text-align: center;
@@ -13,7 +14,7 @@ a:hover{
 }
 body{
 	background-color:#E5E4E2;
-	color:#5C5858;
+	color:white;
 	font-size:16px;
 	font-family:Arial, sans-serif;
 }
