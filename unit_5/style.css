@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 nav{
-	background-color:#E5E4E2;
+	background-color:#666362;
 	color:white;
 	font-family: arial,sans-serif;
 	float: left;
@@ -13,7 +13,7 @@ a:hover{
 	background-image:poppystore_counter.jpg;
 }
 body{
-	background-color:#E5E4E2;
+	background-color:#666362;
 	color:white;
 	font-size:16px;
 	font-family:Arial, sans-serif;
@@ -21,7 +21,7 @@ body{
 header{
 }
 nav{
-	background-color:#E5E4E2;
+	background-color:#666362;
 }
 a:hover {
 	background-color:#aaaaaa;
@@ -36,7 +36,7 @@ p{
 	text-align: center;
 }
 .two_column {
-	background-color:#E5E4E2;
+	background-color:#666362;
 	display:block;
 	float:left;
 	padding: 20px;
