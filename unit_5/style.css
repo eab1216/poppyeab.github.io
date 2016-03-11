@@ -1,8 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-<<<<<<< HEAD
 nav{
-	background-color:E5E4E2;
+	background-color:#E5E4E2;
 	font-family: arial,sans-serif;
+	float: left;
 }
 a:hover{
 	background-color:#aaaaaa;
@@ -10,11 +10,9 @@ a:hover{
 #hero{
 	background-image:poppystore_counter.jpg;
 }
-=======
->>>>>>> origin/master
 body{
-	background-color:#5C5858;
-	color:white;
+	background-color:#E5E4E2;
+	color:#5C5858;
 	font-size:16px;
 	font-family:Arial, sans-serif;
 }
