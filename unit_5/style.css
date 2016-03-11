@@ -1,4 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+<<<<<<< HEAD
 nav{
 	background-color:E5E4E2;
 	font-family: arial,sans-serif;
@@ -9,14 +10,21 @@ a:hover{
 #hero{
 	background-image:poppystore_counter.jpg;
 }
+=======
+>>>>>>> origin/master
 body{
 	background-color:#5C5858;
 	color:white;
 	font-size:16px;
+	font-family:Arial, sans-serif;
 }
 header{
-	font-family:Arial, sans-serif;
-	font-weight: normal;
+}
+nav{
+	background-color:#E5E4E2;
+}
+a:hover {
+	background-color:#aaaaaa;
 }
 h1{
  	font-size:2em;
@@ -26,30 +34,19 @@ h1{
 }
 p{
 	text-align: center;
-	font-family:Arial,sans-serif;
 }
-#two_column {
+.two_column {
 	background-color:#E5E4E2;
-	padding: 20px;
-    font-family:Arial,sans-serif 
-}
-#left{
-	background-color:#E5E4E2;
-	padding:20px;
+	display:block;
 	float:left;
-	width:45%;
-}
-#right{
-	background-color:#E5E4E2;
-	padding:20px;
-	float:right;
-	width: 45%;
+	padding: 20px;
+	width:50%;
 }
 .clearfix:after{
 	visibility: hidden;
 	display:block;
-    font-size:0;
-    content: " ";
-    clear: both;
-    height:0;
+	font-size:0;
+	content: " ";
+	clear: both;
+	height:0;
 }
