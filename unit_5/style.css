@@ -1,11 +1,11 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 nav{
 	background-color:#666362;
+	float:left;
 	color:white;
 	font-family: arial,sans-serif;
-	float: left;
 	text-align: center;
-	padding-left:1.5em; 
+	padding-left:20px; 
 }
 
 a:hover{
