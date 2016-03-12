@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 header,nav{
-	background-color:#666362;
+	background-color:#D1D0CE;
 	float:left;
 	color:white;
 	font-family: arial,sans-serif;
@@ -19,7 +19,7 @@ a:hover{
 
 }
 body{
-	background-color:#666362;
+	background-color:#D1D0CE;
 	color:white;
 	font-size:16px;
 	font-family:Arial, sans-serif;
@@ -37,7 +37,7 @@ p{
 	text-align: center;
 }
 .two_column {
-	background-color:#666362;
+	background-color:#D1D0CE;
 	display:block;
 	float:left;
 	padding: 20px;
