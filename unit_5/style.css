@@ -1,5 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-nav{
+header,nav{
 	background-color:#666362;
 	float:left;
 	color:white;
@@ -13,7 +13,10 @@ a:hover{
 }
 .hero{
 	background-image:url(poppystore_counter.jpg;)
+	background-color:transparent;
 	width:100%;
+	text-indent: center;
+	
 }
 body{
 	background-color:#666362;
