@@ -6,6 +6,7 @@ header,nav{
 	font-family: arial,sans-serif;
 	text-align: center;
 	padding-left:20px; 
+	display: block;
 }
 
 a:hover{
@@ -16,6 +17,7 @@ a:hover{
 	background-color:transparent;
 	width:100%;
 	text-indent: center;
+	display: block;
 
 }
 body{
