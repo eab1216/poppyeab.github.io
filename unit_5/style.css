@@ -74,8 +74,8 @@ p{
 	display:block;
 	float:left;
 	padding: 20px;
-	width:50%;
-	margin: 0, 20px;
+	width:400px;
+	margin: 20px, 20px, 20px, 20px;
 }
 .clearfix:after{
 	visibility: hidden;
