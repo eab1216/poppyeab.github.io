@@ -17,20 +17,9 @@ a:hover{
 	background-image: url("poppystore_counter.jpg");
 	width:100%;
 	height:auto;
-	text-indent: center;
-	display: block;
+	text-align: center;
+	display: block;}
 
-}
-h1{
-position: absolute;
-padding-left: 0,
-top:50%;
-width: 50%
-text-align:center;
-font-size: 18px;	
-}
-p{}
-a{}
 body{
 	background-color:#D1D0CE;
 	color:white;
