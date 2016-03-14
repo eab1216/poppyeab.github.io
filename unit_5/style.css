@@ -37,18 +37,17 @@ a:hover{
 	text-align: center;
 	bottom: 600px;
 }
-h1{
-	font-size:3em;
+
 }
-p{
-	font-size:2em;
-	font: Geogia, serif;
+
 }
-a{
-	font size:1.5em;
+#about{
+	font size:1em;
 	text-decoration: none;
 	color:white;
 	background-color: transparent;
+	text-align: center;
+	padding:20px;
 }
 body{
 	background-color:#D1D0CE;
