@@ -35,19 +35,7 @@ a:hover{
 .wrapper{
 	position:relative;
 	text-align: center;
-	bottom: 600px;
-}
-
-}
-
-}
-.about{
-	font size:1em;
-	text-decoration: none;
-	color:white;
-	background-color: transparent;
-	text-align: center;
-	padding:20px;
+	bottom: 600px
 }
 body{
 	background-color:#D1D0CE;
