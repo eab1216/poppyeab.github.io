@@ -32,10 +32,12 @@ h1{
 h4{
 	font-size:2em;
 }
-#shop now{
+.href{
 	font size:1.5em;
 	text-decoration: none;
 	color:white;
+	background-color: transparent;
+	text-align:center;
 }
 body{
 	background-color:#D1D0CE;
