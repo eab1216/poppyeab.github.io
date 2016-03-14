@@ -26,6 +26,17 @@ a:hover{
 	text-align: center;
 	bottom: 600px;
 }
+h1{
+	font-size:3em;
+}
+h4{
+	font-size:2em;
+}
+#shop now{
+	font size:1.5em;
+	text-decoration: none;
+	color:white;
+}
 body{
 	background-color:#D1D0CE;
 	color:white;
