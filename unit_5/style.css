@@ -1,5 +1,5 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-header,nav{
+header,nav,a{
 	background-color:#D1D0CE;
 	float:left;
 	color: white;
