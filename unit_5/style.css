@@ -2,12 +2,12 @@
 body{
 	background-color:#D1D0CE;
 	color:white;
-	font-size:16px;
+	font-size:20px;
 	font-family:Arial,sans-serif;
 }
 header img{
 	float: left;
-	width:6em;
+	width:8em;
 	margin:auto;
 }
 nav {
