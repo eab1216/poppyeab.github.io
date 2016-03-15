@@ -1,9 +1,19 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+img{
+	float: left;
+}
 header{
-	float:left;
+	float:right;
 	text-decoration: none;
 	text-align:left; 
 	display: block;
+}
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	content:" ";
+	height: 0;
+	font-size: 0;
 }
 a{
 	background-color: #D1D0CE
@@ -25,7 +35,7 @@ a{
 a:hover{
 	background-color:#aaaaaa;
 }
-.hero{
+#hero{
 	background-image: url("poppystore_counter.jpg");
 	width:100%;
 	height:auto;
@@ -56,13 +66,16 @@ p{
 	text-align: center;
 	font-size:44px;
 }
+.wrapper{
+position: relative;
+margin: auto;
+}
 .two_column {
 	background-color:#D1D0CE;
 	display:block;
 	float:left;
 	padding: 20px;
-	width:400px;
-	margin: 20px, 20px, 20px, 20px;
+	width:460px;
 }
 .clearfix:after{
 	visibility: hidden;
