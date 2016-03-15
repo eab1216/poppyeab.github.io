@@ -44,6 +44,8 @@ a:hover{
 	height:auto;
 	text-align:center;
 	display:block;
+	vertical-align: bottom;
+	background-color:transparent;
 }
 .wrapper{
 	position:relative;
