@@ -50,13 +50,17 @@ h2{
 }
 .wrapper{
 }
-.two_column img{
+.two_column{
 	background-color:#D1D0CE;
 	display:block;
-	float:none;
-	padding:20px;
-	font:Georgia,serif;
+	float:left;
+	padding:1em;
+	font-family:Georgia,serif;
 	text-align:center;
+	width:50%;
+}
+.two_column img {
+	width:100%;
 }
 .clearfix:after{
 	visibility:hidden;
