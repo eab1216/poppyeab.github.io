@@ -47,7 +47,7 @@ a:hover{
 .wrapper{
 	position:relative;
 	text-align:center;
-	bottom: 600px
+	bottom:800px
 }
 .clearfix:after{
 	visibility:hidden;
@@ -61,21 +61,21 @@ a:hover{
 body{
 	background-color:#D1D0CE;
 	color:white;
-	font-size:16px;
+	font-size:10px;
 	font-family:Arial,sans-serif;
 }
 a:hover {
 	background-color:#aaaaaa;
 }
 h1{
- 	font-size:50px;
+ 	font-size:25px;
  	font-family:Georgia,serif;
  	text-align:center;
  	margin:20px;
 }
 p{
 	text-align:center;
-	font-size:44px;
+	font-size:10px;
 }
 .clearfix:after{
 	visibility:hidden;
