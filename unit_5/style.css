@@ -108,7 +108,7 @@ h2{
 	margin:auto;
 	bottom:100px;
 }
-.two_column {
+.two_column,img{
 	background-color:#D1D0CE;
 	display:block;
 	float:none;
