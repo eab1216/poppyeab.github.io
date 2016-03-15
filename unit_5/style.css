@@ -8,6 +8,7 @@ header{
 	text-align:left; 
 	display: block;
 	color:white;
+	padding: 0;
 }
 .clearfix:after{
 	visibility:hidden;
