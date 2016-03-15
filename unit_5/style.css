@@ -49,6 +49,15 @@ a:hover{
 	text-align: center;
 	bottom: 600px
 }
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	content:" ";
+	clear:both;
+	height: 0;
+	font-size: 0;
+
+}
 body{
 	background-color:#D1D0CE;
 	color:white;
@@ -68,15 +77,19 @@ p{
 	text-align: center;
 	font-size:44px;
 }
-.wrapper{
-position: relative;
-margin: auto;
+a{
+	text-align: center;
+	color: white;
 }
 .two_column {
 	background-color:#D1D0CE;
 	display:block;
 	float:left;
 	padding: 20px;
+}
+.wrapper{
+	position: relative;
+	margin:auto;
 }
 .clearfix:after{
 	visibility: hidden;
