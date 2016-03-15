@@ -61,21 +61,21 @@ a:hover{
 body{
 	background-color:#D1D0CE;
 	color:white;
-	font-size:10px;
+	font-size:16px;
 	font-family:Arial,sans-serif;
 }
 a:hover {
 	background-color:#aaaaaa;
 }
 h1{
- 	font-size:25px;
+ 	font-size:50px;
  	font-family:Georgia,serif;
  	text-align:center;
  	margin:20px;
 }
 p{
 	text-align:center;
-	font-size:10px;
+	font-size:40px;
 }
 .clearfix:after{
 	visibility:hidden;
