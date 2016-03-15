@@ -4,34 +4,34 @@ img{
 }
 header{
 	float:right;
-	text-decoration: none;
+	text-decoration:none;
 	text-align:left; 
 	display: block;
 	color:white;
-	padding: 0;
+	padding:0;
 }
 .clearfix:after{
 	visibility:hidden;
 	display:block;
 	content:" ";
-	height: 0;
-	font-size: 0;
+	height:0;
+	font-size:0;
 }
 a{
-	background-color: #D1D0CE
-	color: white;
-	text-decoration: none;
-	display: block;
-	float: left;
-	padding: 40px;
+	background-color:#D1D0CE
+	color:white;
+	text-decoration:none;
+	display:block;
+	float:left;
+	padding:40px;
 }
 .clearfix:after{
-	visibility: hidden;
+	visibility:hidden;
 	display:block;
 	content:" ";
 	clear:both;
-	height: 0;
-	font-size: 0;
+	height:0;
+	font-size:0;
 }
 
 a:hover{
@@ -41,12 +41,12 @@ a:hover{
 	background-image: url("poppystore_counter.jpg");
 	width:100%;
 	height:auto;
-	text-align: center;
-	display: block;
+	text-align:center;
+	display:block;
 }
 .wrapper{
 	position:relative;
-	text-align: center;
+	text-align:center;
 	bottom: 600px
 }
 .clearfix:after{
@@ -54,15 +54,15 @@ a:hover{
 	display:block;
 	content:" ";
 	clear:both;
-	height: 0;
-	font-size: 0;
+	height:0;
+	font-size:0;
 
 }
 body{
 	background-color:#D1D0CE;
 	color:white;
 	font-size:16px;
-	font-family:Arial, sans-serif;
+	font-family:Arial,sans-serif;
 }
 a:hover {
 	background-color:#aaaaaa;
@@ -70,32 +70,46 @@ a:hover {
 h1{
  	font-size:2em;
  	font-family:Georgia,serif;
- 	text-align: center;
+ 	text-align:center;
  	margin:.5em;
 }
 p{
-	text-align: center;
+	text-align:center;
 	font-size:44px;
 }
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	content:" ";
+	clear:both;
+	height:0;
+	font-size:0;
+}
 a{
-	text-align: center;
-	color: white;
+	text-align:center;
+	color:white;
 }
 .two_column {
 	background-color:#D1D0CE;
 	display:block;
-	float:left;
-	padding: 20px;
+	float:none;
+	padding:20px;
 }
 .wrapper{
-	position: relative;
+	position:relative;
 	margin:auto;
 }
 .clearfix:after{
-	visibility: hidden;
+	visibility:hidden;
 	display:block;
 	font-size:0;
 	content: " ";
-	clear: both;
+	clear:both;
 	height:0;
+}
+footer{
+	text-align:center;
+	color:white;
+	text-decoration:none;
+
 }
