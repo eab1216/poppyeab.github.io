@@ -44,7 +44,7 @@ h2{
 	text-decoration:none;
 }
 #hero{
-	background-image: url("images/poppy_counter.jpg");
+	background-image: 
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:90vh;
@@ -59,11 +59,11 @@ h2{
 	padding:1em;
 	font-family:Georgia,serif;
 	text-align:center;
-	width:50%;
+	width:40%;
 	padding:2em;
 }
 .two_column img {
-	width:100%;
+	width:80%;
 }
 .clearfix:after{
 	visibility:hidden;
