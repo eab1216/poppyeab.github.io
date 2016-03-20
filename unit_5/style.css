@@ -57,7 +57,7 @@ h2{
 }
 .two_column{
 	background-color:#D1D0CE;
-	display:block;
+	display:inline-block;
 	font-family:Georgia,serif;
 	text-align:center;
 	width:40%;
