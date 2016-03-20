@@ -7,11 +7,13 @@ body{
 }
 header img{
 	float: left;
-	width:10em;
+	width:8em;
 	margin:auto;
 }
 nav {
 	float:right;
+	position:relative;
+	left:-40px;
 }
 nav a{
 	color:white;
@@ -32,7 +34,7 @@ h1, h2, h3, h4 {
 }
 h1{
  	font-size:3em;
- 	padding:2em 0 0 0;
+ 	padding:2.75em 0 0 0;
 }
 h2{
 	padding:1em;
@@ -51,12 +53,11 @@ h2{
 	text-align:center;
 }
 .wrapper{
+	text-align: center;
 }
 .two_column{
 	background-color:#D1D0CE;
 	display:block;
-	float:left;
-	padding:1em;
 	font-family:Georgia,serif;
 	text-align:center;
 	width:40%;
@@ -72,4 +73,8 @@ h2{
 	content:" ";
 	clear:both;
 	height:0;
+}
+footer{
+	clear:both;
+	text-align: center;
 }
