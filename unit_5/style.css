@@ -39,10 +39,6 @@ h1{
 h2{
 	padding:1em;
 }
-.about{
-	font-size: 1.25em
-	font-family:arial,sans-serif;
-}
 .cta {
 	background:#b71525;
 	display:inline-block;
@@ -55,6 +51,10 @@ h2{
 	background-repeat:no-repeat;
 	height:90vh;
 	text-align:center;
+}
+.about{
+	font-size: 1.25em
+	font-family:arial,sans-serif;
 }
 .wrapper{
 	text-align: center;
