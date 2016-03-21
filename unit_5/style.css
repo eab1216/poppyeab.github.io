@@ -61,11 +61,11 @@ h2{
 	display:inline-block;
 	font-family:Georgia,serif;
 	text-align:center;
-	width:40%;
-	padding:2em;
+	width:45%;
+	padding:1em;
 }
 .two_column img {
-	width:80%;
+	width:90%;
 }
 .clearfix:after{
 	visibility:hidden;
