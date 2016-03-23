@@ -71,8 +71,6 @@ p {
 #hero .wrapper {
 	background:#b71525;
 	color:white;
-	border:.2em solid #aaa;
-	border-color: white;
 	border-radius:.25em;
 	box-shadow:2px 2px 4px rgba(0,0,0,.15), 4px 4px 10px rgba(0,0,0,.25);
 	padding:1em;
