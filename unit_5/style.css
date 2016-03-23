@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body{
-	background-color:#D1D0CE;
+	background-color:#white;
 	color:white;
 	font-size:20px;
 	font-family:Arial,sans-serif;
@@ -19,7 +19,7 @@ nav {
 	left:-40px;
 }
 nav a{
-	color:white;
+	color:#666362;
 	text-decoration:none;
 	display:inline-block;
 	padding:1.25em;
@@ -85,7 +85,7 @@ p {
 	margin:auto;
 }
 .two_column{
-	background-color:#D1D0CE;
+	background-color:white;
 	display:inline-block;
 	font-family:Georgia,serif;
 	text-align:center;
