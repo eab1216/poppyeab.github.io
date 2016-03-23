@@ -14,7 +14,7 @@ header img{
 	margin:auto;
 }
 nav {
-	font-color: white
+	font-color:white
 	float:right;
 	position:relative;
 	left:-10px;
@@ -47,8 +47,8 @@ p {
 	margin-bottom:1em;
 }
 .cta {
-	background:white;
-	color:#b71525;
+	background:#b71525;
+	color:white;
 	border:.1em solid;
 	border-radius:.25em;
 	display:inline-block;
@@ -69,8 +69,8 @@ p {
 	text-align:center;
 }
 #hero .wrapper {
-	background:white;
-	color:#b71525;
+	background:#b71525;
+	color:white;
 	border-radius:.25em;
 	box-shadow:2px 2px 4px rgba(0,0,0,.15), 4px 4px 10px rgba(0,0,0,.25);
 	padding:1em;
