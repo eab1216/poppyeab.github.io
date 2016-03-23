@@ -51,7 +51,6 @@ p {
 	border:.1em solid;
 	border-radius:.25em;
 	display:inline-block;
-	margin: -.5em
 	padding:1em 2em;
 	text-decoration:none;
 }
@@ -78,7 +77,7 @@ p {
 	top:50%;
 	left:50%;
 	transform:translate(-50%, -50%);
-	width:35em;
+	width:32em;
 }
 .wrapper{
 	text-align: center;
