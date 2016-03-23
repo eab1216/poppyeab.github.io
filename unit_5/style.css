@@ -1,7 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color:white;
-	color:#E5E4E2;
+	color:#C0C0C0;
 	font-size:20px;
 	font-family:Arial,sans-serif;
 }
@@ -19,7 +19,7 @@ nav {
 	left:-40px;
 }
 nav a{
-	color:#E5E4E2;
+	color:#C0C0C0;
 	text-decoration:none;
 	display:inline-block;
 	padding:1.25em;
