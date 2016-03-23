@@ -46,7 +46,8 @@ p {
 	margin-bottom:1em;
 }
 .cta {
-	background:#b71525;
+	background:white;
+	color:#b71525;
 	border:.1em solid;
 	border-radius:.25em;
 	display:inline-block;
